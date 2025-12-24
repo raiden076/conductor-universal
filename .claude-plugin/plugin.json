@@ -1,0 +1,21 @@
+{
+  "name": "conductor",
+  "description": "Conductor context-driven development for Claude Code. Enables Context → Spec & Plan → Implement workflow with tracks, specs, and plans.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Arkaprava",
+    "email": "raiden076@example.com"
+  },
+  "homepage": "https://github.com/raiden076/conductor-universal",
+  "repository": "https://github.com/raiden076/conductor-universal",
+  "license": "Apache-2.0",
+  "keywords": [
+    "workflow",
+    "development",
+    "planning",
+    "tdd",
+    "context-driven",
+    "conductor"
+  ],
+  "category": "development"
+}
