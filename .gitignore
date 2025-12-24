@@ -1,0 +1,21 @@
+# Upstream conductor repository (cloned during sync)
+upstream/
+
+# Version info file (auto-generated)
+VERSION.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-*
+
+# Temporary files
+*.tmp
+*.temp
